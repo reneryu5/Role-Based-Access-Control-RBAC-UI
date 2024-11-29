@@ -52,3 +52,32 @@ The application is now running and you can:
 - Manage permissions for each role
   
 The code is organized into small, focused components and follows best practices for maintainability and scalability.
+
+
+
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run Vite Frontend
+
+React will run on http://localhost:3000
+
+```bash
+npm run dev
+```
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+### Preview Production Build
+
+```bash
+npm run preview
+```
